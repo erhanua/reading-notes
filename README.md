@@ -2,6 +2,9 @@
 ## Introduction
 "This is my personal GitHub Pages site where I share my projects, thoughts on technology, and tutorials. Dive in to explore my coding journey!"
 
+![Growth Mindset]([https://github.com/ERHAN/reading-notes/raw/main/yuklediginiz_resim_adı.jpg](https://github.com/erhanua/reading-notes/blob/main/brain-1295128_1280.png?raw=true))
+
+
 ### GROWTH MINDSET 🌱
 >A growth mindset is the underlying belief that abilities and talents can be developed through dedication, hard work, and proper education. Unlike a fixed mindset, where individuals believe their talents are innate
 >

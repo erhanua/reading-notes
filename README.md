@@ -32,6 +32,7 @@ To structure this page, I've utilized several Markdown features:
 3. Bold text
 4. Lists
 5. Blockquotes
+6. Images
 
 ---
 

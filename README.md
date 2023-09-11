@@ -32,4 +32,4 @@ To structure this page, I've utilized several Markdown features:
 ---
 
 ## Conclusion
-Thank you for visiting! Feel free to explore more about me and my projects on [GitHub]([erhanua.github.io]
+Thank you for visiting! Feel free to explore more about me and my projects on [GitHub](https://erhanua.github.io/reading-notes/).
